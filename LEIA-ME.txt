@@ -1,0 +1,25 @@
+TP ASSESSORIA — SITE 2.0
+
+ARQUIVOS PRINCIPAIS
+- index.html: conteúdo do site
+- styles.css: identidade visual e responsividade
+- script.js: menu, animações, formulário e interações
+- CNAME: domínio personalizado do GitHub Pages
+- robots.txt e sitemap.xml: configuração básica para mecanismos de busca
+- 404.html: página de erro personalizada
+- assets/: logo, monograma e favicon
+- downloads/: proposta comercial modelo
+
+COMO ATUALIZAR NO GITHUB
+1. Extraia este arquivo ZIP.
+2. Abra o repositório "tpassessoria".
+3. Substitua os arquivos antigos pelos novos arquivos desta pasta.
+4. Mantenha a estrutura das pastas "assets" e "downloads".
+5. Faça o commit das alterações.
+6. O GitHub Pages publicará a nova versão automaticamente.
+
+IMPORTANTE
+- O arquivo CNAME deve permanecer na raiz com o conteúdo: tpassessoria.com.br
+- Não apague a pasta assets.
+- O formulário não armazena dados; ele cria uma mensagem e abre o WhatsApp.
+- Os valores dos planos estão no arquivo index.html e podem ser alterados.
